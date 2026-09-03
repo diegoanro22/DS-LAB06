@@ -1,0 +1,12 @@
+﻿indicador,valor
+comentarios_analizados,406
+suma_pesos_aristas,406
+pesos_equivalen_a_comentarios,True
+autores,332
+videos_recolectados,293
+videos_con_arista_observada,19
+nodos,625
+aristas_autor_video,343
+nodos_aislados,274
+componentes,284
+todas_las_aristas_son_bipartitas,True

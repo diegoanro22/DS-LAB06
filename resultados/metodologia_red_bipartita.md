@@ -1,0 +1,5 @@
+## Red bipartita autor–video
+
+La red es no dirigida y tiene dos tipos de nodo: autores identificados por `author_channel_id` y videos identificados por `video_id`. Se crea una arista cuando un autor publicó al menos un comentario en un video, y su peso es el número de comentarios observados de esa pareja autor–video. Los nombres y handles de autores se usan únicamente como etiquetas; para los videos se conservan título, canal, categoría y visualizaciones como atributos. La tabla y la figura incluyen todos los videos recolectados, incluso los que no tienen comentarios recuperados.
+
+Una arista representa participación observada en el contenido, no amistad, conversación directa, aprobación ni una relación social fuera de la plataforma. Un video aislado indica que la recolección no recuperó comentarios para ese video y no prueba ausencia de actividad real. Los resultados describen exclusivamente la muestra, condicionada por las consultas, canales, fecha y cobertura del proceso de recolección; no se generalizan a toda la audiencia de YouTube ni a Guatemala.
