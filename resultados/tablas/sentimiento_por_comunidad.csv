@@ -1,0 +1,5 @@
+﻿comunidad_id,comentarios,autores_unicos,sentimiento_medio,sentimiento_mediano,desviacion,positivos,negativos,neutrales_o_sin_cobertura,cobertura_lexica,porcentaje_positivos,porcentaje_negativos,muestra_suficiente,nota_comparacion
+1,225,187,-0.1669,0.0,0.4523,43,98,84,0.6267,19.11,43.56,True,comparable
+2,84,62,0.1299,0.0,0.5026,40,18,26,0.7024,47.62,21.43,True,comparable
+0,63,56,0.2452,0.25,0.4751,35,10,18,0.7143,55.56,15.87,True,comparable
+3,34,29,0.217,0.1806,0.5115,17,7,10,0.7059,50.0,20.59,True,comparable

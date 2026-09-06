@@ -1,0 +1,8 @@
+﻿afirmacion,tipo,alcance,lenguaje_requerido
+La muestra reúne 133 comentarios negativos y 135 positivos según el léxico aplicado.,descripción,Válida para los comentarios recolectados en esta muestra.,Directo: se observa en la muestra.
+El corpus completo tiene un tono predominantemente negativo.,inferencia no sostenible,"El promedio del corpus es -0.0094: el tono negativo se concentra en videos concretos, no en el conjunto.",Evitar: precisar en qué videos se observa.
+Los grupos de videos con audiencia compartida difieren en tono.,asociación,Solo entre los 4 grupos con muestra suficiente.,"Cauteloso: se asocia, no se demuestra causa."
+La categoría del video determina el sentimiento de su audiencia.,inferencia no sostenible,Solo 2 categorías superan el umbral de muestra.,Evitar: el diseño no permite afirmar causalidad.
+Los autores puente trasladan un tono común entre comunidades.,inferencia no sostenible,Los autores multividales aportan muy pocos comentarios cada uno.,Evitar o presentar como hipótesis a verificar.
+Los videos sin comentarios recuperados carecen de participación.,inferencia no sostenible,"El aislamiento es de la recolección, no de la plataforma.",Evitar: describirlo como cobertura parcial.
+El sentimiento medido refleja la emoción real de quien comenta.,inferencia no sostenible,"El léxico mide vocabulario escrito, no estados internos.",Evitar: hablar del tono del texto observado.

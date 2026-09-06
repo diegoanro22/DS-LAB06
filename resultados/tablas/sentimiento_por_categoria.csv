@@ -1,0 +1,4 @@
+﻿categoria,comentarios,autores_unicos,sentimiento_medio,sentimiento_mediano,desviacion,positivos,negativos,neutrales_o_sin_cobertura,cobertura_lexica,porcentaje_positivos,porcentaje_negativos,muestra_suficiente,nota_comparacion
+News & Politics,335,283,-0.0389,0.0,0.4926,100,116,119,0.6448,29.85,34.63,True,comparable
+Entertainment,70,50,0.1199,0.0,0.5282,34,17,19,0.7429,48.57,24.29,True,comparable
+Nonprofits & Activism,1,1,0.8176,0.8176,0.0,1,0,0,1.0,100.0,0.0,False,muestra insuficiente (< 10 comentarios): no comparar

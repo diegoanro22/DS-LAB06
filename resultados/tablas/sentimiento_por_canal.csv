@@ -1,0 +1,9 @@
+﻿canal,comentarios,autores_unicos,sentimiento_medio,sentimiento_mediano,desviacion,positivos,negativos,neutrales_o_sin_cobertura,cobertura_lexica,porcentaje_positivos,porcentaje_negativos,muestra_suficiente,nota_comparacion
+Quorum,256,214,-0.1009,0.0,0.4913,64,103,89,0.6523,25.0,40.23,True,comparable
+Gobierno de la República de Guatemala,70,50,0.1199,0.0,0.5282,34,17,19,0.7429,48.57,24.29,True,comparable
+Municipalidad de Guatemala,25,25,0.4838,0.5423,0.3159,21,0,4,0.84,84.0,0.0,True,comparable
+Noticias Telemundo,25,18,0.0499,0.0,0.461,8,6,11,0.56,32.0,24.0,True,comparable
+Noti7,14,13,0.1799,0.0,0.3591,6,1,7,0.5,42.86,7.14,True,comparable
+PrensaLibreOficial,7,7,0.0655,0.0,0.3661,2,1,4,0.4286,28.57,14.29,False,muestra insuficiente (< 10 comentarios): no comparar
+TN23 Guatemala,7,7,-0.3478,-0.3612,0.3644,0,4,3,0.5714,0.0,57.14,False,muestra insuficiente (< 10 comentarios): no comparar
+Noticiero Guatevisión 13 Hrs.,2,2,-0.125,-0.125,0.1768,0,1,1,0.5,0.0,50.0,False,muestra insuficiente (< 10 comentarios): no comparar
