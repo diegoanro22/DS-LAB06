@@ -20,9 +20,10 @@ Desde la raíz del repositorio:
 ```bash
 python -m src.red_bipartita
 python -m src.proyecciones_topologia
+python -m src.comunidades_centralidad
 ```
 
-El script carga los CSV originales desde `data/`, valida los identificadores, agrupa cada pareja autor-video y regenera:
+El flujo completo carga los CSV originales desde `data/`, valida los identificadores, agrupa cada pareja autor-video y regenera:
 
 - `resultados/tablas/nodos_red_bipartita.csv`
 - `resultados/tablas/aristas_red_bipartita.csv`
@@ -54,6 +55,31 @@ video–video conecta dos videos con al menos un autor comentarista en común;
 su peso es el número de autores distintos compartidos. Las figuras y tablas
 conservan nodos aislados. Ese aislamiento es solamente el de la participación
 recuperada en esta muestra, no evidencia de ausencia de actividad real.
+
+## Entrega final — Comunidades, centralidad y participantes puente (ejercicios 7–8)
+
+La tercera orden regenera la detección modular de comunidades y el análisis
+posicional de centralidad sobre las proyecciones y la bipartita. Produce:
+
+- `resultados/tablas/comunidades_videos.csv`, resumiendo las comunidades
+  temáticas, densidad interna, canales representados y tono discursivo;
+- `resultados/tablas/centralidad_videos.csv` y
+  `resultados/tablas/centralidad_autores.csv`, con grado no ponderado, grado
+  ponderado, intermediación (*betweenness*), cercanía, PageRank y estado de corte;
+- `resultados/tablas/ranking_puentes_articuladores.csv`, que sistematiza los 5
+  videos bisagra y los 9 autores multividales que conectan las esferas temáticas;
+- `resultados/tablas/validacion_comunidades.csv`, con chequeos automatizados de
+  integridad;
+- `resultados/figuras/comunidades_videos_completa.png` (núcleo y matriz de
+  aislados) y `resultados/figuras/comunidades_videos_detalle.png` (anotación de
+  canales, enlaces y autores puente);
+- `resultados/metodologia_comunidades_centralidad.md`, listo para el informe.
+
+Se utiliza la proyección video–video como red base para Louvain (semilla 42,
+modularidad $Q = 0.4053$), identificando tres comunidades conexas sustantivas:
+fiscalización política (C1), comunicación institucional/seguridad (C2) y
+servicios cívicos/monopolios (C3). Exactamente 5 videos y 7 autores constituyen
+puntos de articulación cuya remoción desconecta la circulación discursiva.
 
 ## Definición e interpretación
 

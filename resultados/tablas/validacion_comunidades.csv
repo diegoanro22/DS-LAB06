@@ -1,0 +1,10 @@
+﻿indicador,valor
+videos_totales_conservados,True
+autores_totales_conservados,True
+videos_conectados,True
+videos_aislados_muestra,True
+num_comunidades_conectadas,True
+modularidad_louvain_positiva,True
+puntos_articulacion_videos,True
+autores_recurrentes_multividal,True
+puntos_articulacion_autores,True
