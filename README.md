@@ -19,6 +19,7 @@ Desde la raíz del repositorio:
 
 ```bash
 python -m src.red_bipartita
+python -m src.proyecciones_topologia
 ```
 
 El script carga los CSV originales desde `data/`, valida los identificadores, agrupa cada pareja autor-video y regenera:
@@ -30,6 +31,29 @@ El script carga los CSV originales desde `data/`, valida los identificadores, ag
 - `resultados/figuras/red_bipartita_completa.png`
 
 El notebook `notebooks/Laboratorio_6_Analisis_Redes_YouTube.ipynb` integra la misma función después de las secciones de carga, limpieza y exploración.
+
+## Entrega final — Proyecciones y topología (ejercicios 5–6)
+
+La segunda orden regenera el análisis de proyecciones y topología desde los
+CSV originales y la misma definición de red bipartita. Produce:
+
+- `resultados/proyeccion_autor_autor.gexf` y `resultados/proyeccion_video_video.gexf`;
+- `resultados/tablas/metricas_redes.csv`, con nodos, aristas, densidad, grado
+  medio, componentes, aislados, periféricos, cohesión y transitividad;
+- `resultados/tablas/distribucion_grados_redes.csv`,
+  `componentes_redes.csv`, `nodos_estructura_redes.csv` y
+  `validacion_proyecciones.csv`;
+- las figuras completas de ambas proyecciones y de sus distribuciones de
+  grado en `resultados/figuras/`;
+- `resultados/metodologia_proyecciones_topologia.md`, listo para incorporar
+  al informe.
+
+La proyección autor–autor conecta dos autores que comentaron en un mismo
+video; su peso es el número de videos distintos compartidos. La proyección
+video–video conecta dos videos con al menos un autor comentarista en común;
+su peso es el número de autores distintos compartidos. Las figuras y tablas
+conservan nodos aislados. Ese aislamiento es solamente el de la participación
+recuperada en esta muestra, no evidencia de ausencia de actividad real.
 
 ## Definición e interpretación
 

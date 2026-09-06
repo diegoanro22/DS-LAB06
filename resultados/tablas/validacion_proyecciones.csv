@@ -1,0 +1,7 @@
+﻿indicador,valor
+autores_conservados,True
+videos_conservados,True
+aristas_autor_autor,10732
+aristas_video_video,11
+pesos_autor_autor_positivos,True
+pesos_video_video_positivos,True

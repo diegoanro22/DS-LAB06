@@ -1,0 +1,3255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2026-09-06">
+    <creator>NetworkX 3.6.1</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="Proyeccion video-video">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="node_type" type="string" />
+      <attribute id="1" title="video_id" type="string" />
+      <attribute id="2" title="title" type="string" />
+      <attribute id="3" title="channel_name" type="string" />
+      <attribute id="4" title="category" type="string" />
+      <attribute id="5" title="view_count" type="long" />
+      <attribute id="6" title="has_observed_edge" type="boolean" />
+    </attributes>
+    <nodes>
+      <node id="video::-5puKGEqcUc" label="INSIVUMEH pronostica incremento de lluvias para el fin de semana en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="-5puKGEqcUc" />
+          <attvalue for="2" value="INSIVUMEH pronostica incremento de lluvias para el fin de semana en Guatemala" />
+          <attvalue for="3" value="T13 Noticias Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="2357" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::-E7OPOLjMug" label="BERNARDO ARÉVALO CALIFICA CAMBIO EN EL MP COMO EL FIN DE UNA ETAPA DE DETERIORO INSTITUCIONAL">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="-E7OPOLjMug" />
+          <attvalue for="2" value="BERNARDO ARÉVALO CALIFICA CAMBIO EN EL MP COMO EL FIN DE UNA ETAPA DE DETERIORO INSTITUCIONAL" />
+          <attvalue for="3" value="IDocumenta" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="4" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::-KDglrIzRKo" label="¡HISTÓRICO! Mexico recupera petróleo robado por Guatemala... 🔔">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="-KDglrIzRKo" />
+          <attvalue for="2" value="¡HISTÓRICO! Mexico recupera petróleo robado por Guatemala... 🔔" />
+          <attvalue for="3" value="México Poder" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="29736" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::-O4Pa7qS9WQ" label="Viaje completo Ciudad de Guatemala al IRTRA de Retalhuleu, menos tráfico, Diesel a Q42.59">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="-O4Pa7qS9WQ" />
+          <attvalue for="2" value="Viaje completo Ciudad de Guatemala al IRTRA de Retalhuleu, menos tráfico, Diesel a Q42.59" />
+          <attvalue for="3" value="Guate Maya Trip" />
+          <attvalue for="4" value="Nonprofits &amp; Activism" />
+          <attvalue for="5" value="383" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::06mFNPU0aB8" label="Capturan a presuntos delincuentes disfrazados de mujer señalados de cometer asalto">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="06mFNPU0aB8" />
+          <attvalue for="2" value="Capturan a presuntos delincuentes disfrazados de mujer señalados de cometer asalto" />
+          <attvalue for="3" value="Noti7" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="6692" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::0LTLUY7LBlA" label="Qué debes saber ANTES de viajar a GUATEMALA | Dónde cambiar DINERO, adquirir INTERNET y TRANSPORTE">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="0LTLUY7LBlA" />
+          <attvalue for="2" value="Qué debes saber ANTES de viajar a GUATEMALA | Dónde cambiar DINERO, adquirir INTERNET y TRANSPORTE" />
+          <attvalue for="3" value="De viaje con Migue" />
+          <attvalue for="4" value="Travel &amp; Events" />
+          <attvalue for="5" value="6099" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::0a4_g1R1-aA" label="Acciones relevantes en el #Resumen24Horas">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="0a4_g1R1-aA" />
+          <attvalue for="2" value="Acciones relevantes en el #Resumen24Horas" />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="Science &amp; Technology" />
+          <attvalue for="5" value="15455" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::0b2vfzXdCqs" label="Cadena Nacional del presidente Bernardo Arévalo">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="0b2vfzXdCqs" />
+          <attvalue for="2" value="Cadena Nacional del presidente Bernardo Arévalo" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="2725" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::0eiVPMexNOo" label="CONRED se pronuncia tras sismos en el territorio nacional">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="0eiVPMexNOo" />
+          <attvalue for="2" value="CONRED se pronuncia tras sismos en el territorio nacional" />
+          <attvalue for="3" value="TN23 Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1875" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::0iQD8zHxZIg" label="SE FILTRO un AUDIO de PANDILLEROS en Guatemala | DISPUTA POLITICA  Guatemala en medio de EMERGENCIA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="0iQD8zHxZIg" />
+          <attvalue for="2" value="SE FILTRO un AUDIO de PANDILLEROS en Guatemala | DISPUTA POLITICA  Guatemala en medio de EMERGENCIA" />
+          <attvalue for="3" value="Tras la Verdad SV" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="36701" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::1-hr8eCOt_I" label="Este es el impacto ante el incremento del tráfico en la capital por el inicio de clases">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="1-hr8eCOt_I" />
+          <attvalue for="2" value="Este es el impacto ante el incremento del tráfico en la capital por el inicio de clases" />
+          <attvalue for="3" value="AztecaGuate" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="289" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::1HQLJycvzaQ" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="1HQLJycvzaQ" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1175" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::1kSG-naIgqk" label="PRIMERA SEDE MIGRATORIA REGIONAL EN CHIQUIMULA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="1kSG-naIgqk" />
+          <attvalue for="2" value="PRIMERA SEDE MIGRATORIA REGIONAL EN CHIQUIMULA" />
+          <attvalue for="3" value="Vicepresidencia Guate" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="48" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::1w9faaYjhyU" label="Fundación de la República de Guatemala 21 marzo 1847">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="1w9faaYjhyU" />
+          <attvalue for="2" value="Fundación de la República de Guatemala 21 marzo 1847" />
+          <attvalue for="3" value="El profe de Historia Gt" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="31697" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::1y61Kb9uSbg" label="Departamento de Tránsito de PNC certifica a 43 PMT en Educación Vial">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="1y61Kb9uSbg" />
+          <attvalue for="2" value="Departamento de Tránsito de PNC certifica a 43 PMT en Educación Vial" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="471" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::1yHN9Ci7pXs" label="Municipalidad de Guatemala informa">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="1yHN9Ci7pXs" />
+          <attvalue for="2" value="Municipalidad de Guatemala informa" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="1617" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::2iqOSL9YguA" label="Gabriel García Luna ya está en el MP para asumir como nuevo fiscal general">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="2iqOSL9YguA" />
+          <attvalue for="2" value="Gabriel García Luna ya está en el MP para asumir como nuevo fiscal general" />
+          <attvalue for="3" value="Guatevisión" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="5181" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::2n31FhKmELI" label="TRÁFICO EN GUATEMALA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="2n31FhKmELI" />
+          <attvalue for="2" value="TRÁFICO EN GUATEMALA" />
+          <attvalue for="3" value="Fralis Maxiel Martinez" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="512" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::2p23yPpu6aQ" label="#Conred">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="2p23yPpu6aQ" />
+          <attvalue for="2" value="#Conred" />
+          <attvalue for="3" value="Noticias-FA-Gt" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="164" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::3-jKER3zqcA" label="VECINO VRS AGENTES DE LA PMT EN MAZATENANGO">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="3-jKER3zqcA" />
+          <attvalue for="2" value="VECINO VRS AGENTES DE LA PMT EN MAZATENANGO" />
+          <attvalue for="3" value="audioschileros" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="70811" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::3LAwISMokIg" label="MUNICIPALIDAD DE GUATEMALA 17/12/2025">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="3LAwISMokIg" />
+          <attvalue for="2" value="MUNICIPALIDAD DE GUATEMALA 17/12/2025" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="294" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::3Nfp9h5avBI" label="Noticiero en Directo 1 pm, 28 de Agosto de 2026">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="3Nfp9h5avBI" />
+          <attvalue for="2" value="Noticiero en Directo 1 pm, 28 de Agosto de 2026" />
+          <attvalue for="3" value="Noticiero Guatevisión 13 Hrs." />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="573" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::3P2OUk7aGmc" label="Presidente presenta Segundo Informe Presidencial en Sesión Solemne del Congreso de la República.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="3P2OUk7aGmc" />
+          <attvalue for="2" value="Presidente presenta Segundo Informe Presidencial en Sesión Solemne del Congreso de la República." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="2838" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::3S3KygWSjAQ" label="Himno de la Policía Nacional Civil de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="3S3KygWSjAQ" />
+          <attvalue for="2" value="Himno de la Policía Nacional Civil de Guatemala" />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="53021" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::3bU7I_ZpXUk" label="Congreso inicia proceso para nombrar a nuevo Fiscal General en Guatemala y suceder a Consuelo Porras">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="3bU7I_ZpXUk" />
+          <attvalue for="2" value="Congreso inicia proceso para nombrar a nuevo Fiscal General en Guatemala y suceder a Consuelo Porras" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="7465" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::3onMfRym3OU" label="PRIMER PUENTE DONDE ARRIBA VA EL TRÁFICO Y ABAJO UN TREN EN GUATEMALA Y AMÉRICA LATINA.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="3onMfRym3OU" />
+          <attvalue for="2" value="PRIMER PUENTE DONDE ARRIBA VA EL TRÁFICO Y ABAJO UN TREN EN GUATEMALA Y AMÉRICA LATINA." />
+          <attvalue for="3" value="Cronos Time GT" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="4484" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::45xQLtMlPdo" label="PRESIDENTE DE GUATEMALA, BERNARDO ARÉVALO SE REFIERE AL “DÍA INTERNACIONAL DE LA LIBERTAD DE PRENSA”">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="45xQLtMlPdo" />
+          <attvalue for="2" value="PRESIDENTE DE GUATEMALA, BERNARDO ARÉVALO SE REFIERE AL “DÍA INTERNACIONAL DE LA LIBERTAD DE PRENSA”" />
+          <attvalue for="3" value="IDocumenta" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="8" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::4DD1nlxWk2s" label="Fuertes LLUVIAS en el JABALI; a si luce una Tarde de Tormenta 😱">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="4DD1nlxWk2s" />
+          <attvalue for="2" value="Fuertes LLUVIAS en el JABALI; a si luce una Tarde de Tormenta 😱" />
+          <attvalue for="3" value="VIVA GUATEMALA" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="27111" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::4FUed7cIhPU" label="El Sistema CONRED y el Gobierno de Guatemala trabajan unidos para atender emergencias.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="4FUed7cIhPU" />
+          <attvalue for="2" value="El Sistema CONRED y el Gobierno de Guatemala trabajan unidos para atender emergencias." />
+          <attvalue for="3" value="Conred" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="47" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::4H6w9FQAcS8" label="Avances en temas de economía, precios de los combustibles y otros temas de interés nacional.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="4H6w9FQAcS8" />
+          <attvalue for="2" value="Avances en temas de economía, precios de los combustibles y otros temas de interés nacional." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1489" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::5DRG-WGTq1k" label="El Sistema CONRED continúa activo y trabajando de manera coordinada #VolcánDeFuego.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="5DRG-WGTq1k" />
+          <attvalue for="2" value="El Sistema CONRED continúa activo y trabajando de manera coordinada #VolcánDeFuego." />
+          <attvalue for="3" value="Conred" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="68" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::5MFnG5B7ric" label="Municipalidad de Guatemala   09/07/2025">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="5MFnG5B7ric" />
+          <attvalue for="2" value="Municipalidad de Guatemala   09/07/2025" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="107" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::5OhxjDvuYbQ" label="Operativos PMT &quot;Cero Tolerancia&quot; para fin de año">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="5OhxjDvuYbQ" />
+          <attvalue for="2" value="Operativos PMT &quot;Cero Tolerancia&quot; para fin de año" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="494" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::5UNxNfcSzG4" label="Distinción del Cambio de la Rosa de la Paz a Pedro Castro López del INACOP">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="5UNxNfcSzG4" />
+          <attvalue for="2" value="Distinción del Cambio de la Rosa de la Paz a Pedro Castro López del INACOP" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="741" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::5Y7fntl6Rc8" label="Cómo llegar a TIKAL desde Ciudad de GUATEMALA en autobús o en Avión | transporte a PETÉN">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="5Y7fntl6Rc8" />
+          <attvalue for="2" value="Cómo llegar a TIKAL desde Ciudad de GUATEMALA en autobús o en Avión | transporte a PETÉN" />
+          <attvalue for="3" value="De viaje con Migue" />
+          <attvalue for="4" value="Travel &amp; Events" />
+          <attvalue for="5" value="11061" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::5nw9G1vwnYY" label="Actriz guatemalteca caracteriza a Consuelo Porras frente al MP por salida del cargo">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="5nw9G1vwnYY" />
+          <attvalue for="2" value="Actriz guatemalteca caracteriza a Consuelo Porras frente al MP por salida del cargo" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="40327" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::677N9cx_kKE" label="Carlos Pineda Seguridad I - Guatemala tiene solución | Ep. 2">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="677N9cx_kKE" />
+          <attvalue for="2" value="Carlos Pineda Seguridad I - Guatemala tiene solución | Ep. 2" />
+          <attvalue for="3" value="Carlos Pineda" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="8568" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::6KlI_geqPOI" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="6KlI_geqPOI" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="2301" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::6W4u8sGEnGM" label="Inician los trabajos de recuperación del Puente Belice II.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="6W4u8sGEnGM" />
+          <attvalue for="2" value="Inician los trabajos de recuperación del Puente Belice II." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="11670" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::6Wf0ItQUaDU" label="“Queremos generar 60 mil empleos”: Victorino Carranza revela el plan y las pérdidas de la Gremipe">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="6Wf0ItQUaDU" />
+          <attvalue for="2" value="“Queremos generar 60 mil empleos”: Victorino Carranza revela el plan y las pérdidas de la Gremipe" />
+          <attvalue for="3" value="Campus TV" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::6y3KQmmg3Oc" label="Noticiero El Informativo. Nuestra semana de resultados.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="6y3KQmmg3Oc" />
+          <attvalue for="2" value="Noticiero El Informativo. Nuestra semana de resultados." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="303" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::6z2Psav9Onw" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="6z2Psav9Onw" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="848" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::74F3Mn_NWoE" label="Acto de Graduación de los Cursos de Formación, Ascenso y Especialización Policial de la PNC.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="74F3Mn_NWoE" />
+          <attvalue for="2" value="Acto de Graduación de los Cursos de Formación, Ascenso y Especialización Policial de la PNC." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1197" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::7JerBdHtkWA" label="Cambio de horarios en Municipalidad de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="7JerBdHtkWA" />
+          <attvalue for="2" value="Cambio de horarios en Municipalidad de Guatemala" />
+          <attvalue for="3" value="Canal 3 Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="215" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::7hfUg8Z-W2o" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="7hfUg8Z-W2o" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="2449" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::7kuHyjwuE_o" label="Centro Municipal de Emprendimiento - Municipalidad de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="7kuHyjwuE_o" />
+          <attvalue for="2" value="Centro Municipal de Emprendimiento - Municipalidad de Guatemala" />
+          <attvalue for="3" value="Centro Municipal de Emprendimiento MuniGuate" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="528" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::7mdtGeIHQnE" label="#LHEnContexto: Gestión de riesgos en GUATEMALA: Lo que debes saber, explicado por la CONRED">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="7mdtGeIHQnE" />
+          <attvalue for="2" value="#LHEnContexto: Gestión de riesgos en GUATEMALA: Lo que debes saber, explicado por la CONRED" />
+          <attvalue for="3" value="La Hora" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="570" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::8CuQ2_HTaN0" label="Conferencia de Prensa del Gobierno de Guatemala.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="8CuQ2_HTaN0" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="735" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::8n6momRcC04" label="Mantenimiento constante">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="8n6momRcC04" />
+          <attvalue for="2" value="Mantenimiento constante" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="91" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::90oVm0P4_9Q" label="El MINGOB a través del Viceministerio de Seguridad, combate  el crimen organizado.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="90oVm0P4_9Q" />
+          <attvalue for="2" value="El MINGOB a través del Viceministerio de Seguridad, combate  el crimen organizado." />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="5" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::9BIrwWQUdb8" label="Capturan a &quot;guardián&quot; de parqueo utilizado por la mara Salvatrucha e incautan 5 vehículos robados.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="9BIrwWQUdb8" />
+          <attvalue for="2" value="Capturan a &quot;guardián&quot; de parqueo utilizado por la mara Salvatrucha e incautan 5 vehículos robados." />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="Science &amp; Technology" />
+          <attvalue for="5" value="23972" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::9Jacxvi9umU" label="Los responsables de bloquear información en Guatecompras">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="9Jacxvi9umU" />
+          <attvalue for="2" value="Los responsables de bloquear información en Guatecompras" />
+          <attvalue for="3" value="Somos El Combo" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="7340" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::9XFVeHiWDTo" label="En #LaRondaGT conoce las acciones que impulsamos para modernizar los puertos y aeropuertos del país.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="9XFVeHiWDTo" />
+          <attvalue for="2" value="En #LaRondaGT conoce las acciones que impulsamos para modernizar los puertos y aeropuertos del país." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1516" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::9h7d1iDFaqo" label="Vuelve el tráfico lento en la ciudad capital">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="9h7d1iDFaqo" />
+          <attvalue for="2" value="Vuelve el tráfico lento en la ciudad capital" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="11396" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::9wHujSu-nbQ" label="Quorum">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="9wHujSu-nbQ" />
+          <attvalue for="2" value="Quorum" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="459" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::AHzfpOL5sgw" label="Sistema de gobierno de Guatemala 🇬🇹">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="AHzfpOL5sgw" />
+          <attvalue for="2" value="Sistema de gobierno de Guatemala 🇬🇹" />
+          <attvalue for="3" value="SUM Estudios Jurídicos." />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="2895" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Aa7hIDCRh3g" label="Este BUS me LLEVO a UN PARAISO EN GUATEMALA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Aa7hIDCRh3g" />
+          <attvalue for="2" value="Este BUS me LLEVO a UN PARAISO EN GUATEMALA" />
+          <attvalue for="3" value="De todo Gt" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="504374" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::AakUTlieyH0" label="Crisis de seguridad en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="AakUTlieyH0" />
+          <attvalue for="2" value="Crisis de seguridad en Guatemala" />
+          <attvalue for="3" value="Canal Antigua" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="733" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Ab0RrbzxyBU" label="Municipalidad de Guatemala 17/11/2025">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Ab0RrbzxyBU" />
+          <attvalue for="2" value="Municipalidad de Guatemala 17/11/2025" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="117" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::AlbPEU3rbZs" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="AlbPEU3rbZs" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="870" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ArljwpsURdY" label="Entrevista especial con Claudinne Ogaldes, Secretaria Ejecutiva de la SE-CONRED">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ArljwpsURdY" />
+          <attvalue for="2" value="Entrevista especial con Claudinne Ogaldes, Secretaria Ejecutiva de la SE-CONRED" />
+          <attvalue for="3" value="Conred" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="416" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::B60bWqpVUIE" label="Así es el transporte público en Ciudad de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="B60bWqpVUIE" />
+          <attvalue for="2" value="Así es el transporte público en Ciudad de Guatemala" />
+          <attvalue for="3" value="PaulinoG" />
+          <attvalue for="4" value="Travel &amp; Events" />
+          <attvalue for="5" value="96794" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::BLc_KXPng9g" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="BLc_KXPng9g" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="720" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::BUNeDEi0yVU" label="CIV LICITACIÓN 800 KM 110717">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="BUNeDEi0yVU" />
+          <attvalue for="2" value="CIV LICITACIÓN 800 KM 110717" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="26" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::BW41jT3t3oI" label="Provial">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="BW41jT3t3oI" />
+          <attvalue for="2" value="Provial" />
+          <attvalue for="3" value="PROVIAL-CIV" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="79" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::BbAeamItalk" label="ZARAGOZA DA UN PASO HACIA EL FORTALECIMIENTO DEL DEPORTE CON NUEVA CIUDAD DEPORTIVA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="BbAeamItalk" />
+          <attvalue for="2" value="ZARAGOZA DA UN PASO HACIA EL FORTALECIMIENTO DEL DEPORTE CON NUEVA CIUDAD DEPORTIVA" />
+          <attvalue for="3" value="IDocumenta" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="7" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Bdn2nxDqQ90" label="Video Viral de PMT / GUATEMALA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Bdn2nxDqQ90" />
+          <attvalue for="2" value="Video Viral de PMT / GUATEMALA" />
+          <attvalue for="3" value="carlos del cid" />
+          <attvalue for="4" value="Film &amp; Animation" />
+          <attvalue for="5" value="2482" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Bi34XvRV6AM" label="Plan de Evacuación CONRED">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Bi34XvRV6AM" />
+          <attvalue for="2" value="Plan de Evacuación CONRED" />
+          <attvalue for="3" value="MESCOGT" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="58" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::BnZFUzpEDe4" label="Municipalidad de Guatemala se moderniza">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="BnZFUzpEDe4" />
+          <attvalue for="2" value="Municipalidad de Guatemala se moderniza" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="642" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Boj5GILjbI0" label="Spot Rendición de Cuentas, segundo cuatrimestre 2023 - 2">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Boj5GILjbI0" />
+          <attvalue for="2" value="Spot Rendición de Cuentas, segundo cuatrimestre 2023 - 2" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="26" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Bp4LtQT8Hk0" label="Ciudad de Guatemala, el mejor lugar para vivir">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Bp4LtQT8Hk0" />
+          <attvalue for="2" value="Ciudad de Guatemala, el mejor lugar para vivir" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="4265" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::C5hJmAhpMMQ" label="YOUTUBE PUNTO DE ENFOQUE MARIO MEJÍA, SUBDIRECTOR DE INSIVUMEH">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="C5hJmAhpMMQ" />
+          <attvalue for="2" value="YOUTUBE PUNTO DE ENFOQUE MARIO MEJÍA, SUBDIRECTOR DE INSIVUMEH" />
+          <attvalue for="3" value="INSIVUMEH" />
+          <attvalue for="4" value="Science &amp; Technology" />
+          <attvalue for="5" value="79" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::C8wk4HWwWyM" label="Duro golpe al crimen organizado en Granja Penal de Pavón.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="C8wk4HWwWyM" />
+          <attvalue for="2" value="Duro golpe al crimen organizado en Granja Penal de Pavón." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="2214" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::CDg6kLRfiqQ" label="Acciones relevantes en el #Resumen24Horas">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="CDg6kLRfiqQ" />
+          <attvalue for="2" value="Acciones relevantes en el #Resumen24Horas" />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="Science &amp; Technology" />
+          <attvalue for="5" value="11048" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::CJQ46Hr4HcU" label="Municipalidad de Guatemala  19/12/2025">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="CJQ46Hr4HcU" />
+          <attvalue for="2" value="Municipalidad de Guatemala  19/12/2025" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="222" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::D3fRGjqHeHI" label="Spot Rendición de Cuentas, segundo cuatrimestre 2023 - 1">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="D3fRGjqHeHI" />
+          <attvalue for="2" value="Spot Rendición de Cuentas, segundo cuatrimestre 2023 - 1" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="23" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::D4CEpAfkkPI" label="Policías arremeten contra agente de PMT en zona 10">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="D4CEpAfkkPI" />
+          <attvalue for="2" value="Policías arremeten contra agente de PMT en zona 10" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="79044" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::DBvMeKT4gzo" label="La Familia MÁS RICA de GUATEMALA… Ni la Guerra les Quitó el Trono y Hoy son DUEÑOS de tu CERVEZA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="DBvMeKT4gzo" />
+          <attvalue for="2" value="La Familia MÁS RICA de GUATEMALA… Ni la Guerra les Quitó el Trono y Hoy son DUEÑOS de tu CERVEZA" />
+          <attvalue for="3" value="Fortuna Latina" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="58881" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::DC1_qrLUvHI" label="Municipalidad de Guatemala 26/08/2026">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="DC1_qrLUvHI" />
+          <attvalue for="2" value="Municipalidad de Guatemala 26/08/2026" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="49" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::DMAKF8n0XJs" label="Guatemala TV • ID (2024-2026)">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="DMAKF8n0XJs" />
+          <attvalue for="2" value="Guatemala TV • ID (2024-2026)" />
+          <attvalue for="3" value="Mdpls²" />
+          <attvalue for="4" value="Film &amp; Animation" />
+          <attvalue for="5" value="367" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::DX5eT-hVU8Q" label="250 años Ciudad de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="DX5eT-hVU8Q" />
+          <attvalue for="2" value="250 años Ciudad de Guatemala" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="491" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::DkxSkQipYwo" label="PRESIDENTE BERNARDO ARÉVALO PARTICIPA EN EL ACTO CONMEMORATIVO DEL DÍA DEL EJÉRCITO">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="DkxSkQipYwo" />
+          <attvalue for="2" value="PRESIDENTE BERNARDO ARÉVALO PARTICIPA EN EL ACTO CONMEMORATIVO DEL DÍA DEL EJÉRCITO" />
+          <attvalue for="3" value="IDocumenta" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="66" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::EGfy1BxGLIk" label="Colabore con las medidas de la PMT">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="EGfy1BxGLIk" />
+          <attvalue for="2" value="Colabore con las medidas de la PMT" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="1437" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ELhvo8YnYnI" label="Insivumeh prevé lluvias fuertes por dos ondas del este">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ELhvo8YnYnI" />
+          <attvalue for="2" value="Insivumeh prevé lluvias fuertes por dos ondas del este" />
+          <attvalue for="3" value="TN23 Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="5182" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::EQDcEgFpXCk" label="Guatemala: Gobierno refuerza lucha contra las pandillas en medio de crisis de seguridad">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="EQDcEgFpXCk" />
+          <attvalue for="2" value="Guatemala: Gobierno refuerza lucha contra las pandillas en medio de crisis de seguridad" />
+          <attvalue for="3" value="FRANCE 24 Español" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="5459" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::EZfm-05qtWo" label="Municipalidad de Guatemala prepara plan de actividades en Semana Santa 2023">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="EZfm-05qtWo" />
+          <attvalue for="2" value="Municipalidad de Guatemala prepara plan de actividades en Semana Santa 2023" />
+          <attvalue for="3" value="Cucurucho en Guatemala" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="128" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::F72Rdq5crG4" label="Cambios en el Ministerio de Comunicaciones: Salen Lizzette Benítez y Adrián Zapata Alamilla">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="F72Rdq5crG4" />
+          <attvalue for="2" value="Cambios en el Ministerio de Comunicaciones: Salen Lizzette Benítez y Adrián Zapata Alamilla" />
+          <attvalue for="3" value="Canal Antigua" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1441" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::FEc1BCuBiDg" label="¡Estamos con ustedes!">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="FEc1BCuBiDg" />
+          <attvalue for="2" value="¡Estamos con ustedes!" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1562" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::FQP4JTo9ShA" label="Rafael Carrera y el nacimiento de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="FQP4JTo9ShA" />
+          <attvalue for="2" value="Rafael Carrera y el nacimiento de Guatemala" />
+          <attvalue for="3" value="MundoHistoria" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="1420" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::FU5zLTb4inc" label="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="FU5zLTb4inc" />
+          <attvalue for="2" value="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="549" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Fapc1-8m5Zc" label="Municipalidad de Guatemala 21/11/2025">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Fapc1-8m5Zc" />
+          <attvalue for="2" value="Municipalidad de Guatemala 21/11/2025" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="282" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Fb2Ccfq5S9w" label="Reo y su esposa fueron asesinados dentro del Preventivo de zona 18">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Fb2Ccfq5S9w" />
+          <attvalue for="2" value="Reo y su esposa fueron asesinados dentro del Preventivo de zona 18" />
+          <attvalue for="3" value="TN23 Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="15431" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::FuTz67jS7m0" label="124 nuevos brigadas refuerzan la seguridad vial en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="FuTz67jS7m0" />
+          <attvalue for="2" value="124 nuevos brigadas refuerzan la seguridad vial en Guatemala" />
+          <attvalue for="3" value="PROVIAL-CIV" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="45" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::G2u4Rbq7zU4" label="Arévalo anuncia nueva cárcel de máxima seguridad en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="G2u4Rbq7zU4" />
+          <attvalue for="2" value="Arévalo anuncia nueva cárcel de máxima seguridad en Guatemala" />
+          <attvalue for="3" value="TN23 Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="6327" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::GgU7qhmf020" label="Sueños GT: educación para la niñez de vendedores ambulantes en Antigua | Super - Episodio 1">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="GgU7qhmf020" />
+          <attvalue for="2" value="Sueños GT: educación para la niñez de vendedores ambulantes en Antigua | Super - Episodio 1" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="Nonprofits &amp; Activism" />
+          <attvalue for="5" value="167" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::GjGMSFSE1gY" label="“Gracias a dios, no hay reelección” 🤡">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="GjGMSFSE1gY" />
+          <attvalue for="2" value="“Gracias a dios, no hay reelección” 🤡" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="130" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::HMJXf1VdM5E" label="Lluvia inusual de Martes Santo provoca inundaciones en zona 1 de Villa Nueva">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="HMJXf1VdM5E" />
+          <attvalue for="2" value="Lluvia inusual de Martes Santo provoca inundaciones en zona 1 de Villa Nueva" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1688" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::H_TGv_cMwww" label="PMT: La fuerza laboral reguladora del tránsito más grande">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="H_TGv_cMwww" />
+          <attvalue for="2" value="PMT: La fuerza laboral reguladora del tránsito más grande" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="2383" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::I277M6i4jnY" label="Gestión del Riesgo de Desastres desde las comunidades.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="I277M6i4jnY" />
+          <attvalue for="2" value="Gestión del Riesgo de Desastres desde las comunidades." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="242" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::IZLflL4Hgco" label="El ciudadano Toriello da un paso al frente">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="IZLflL4Hgco" />
+          <attvalue for="2" value="El ciudadano Toriello da un paso al frente" />
+          <attvalue for="3" value="TanGente Podcast" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="28013" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::IcF9rRdAtp8" label="Ministro de Comunicaciones Alejandro Sinibaldi realiza supervisión en la Ruta CA-1 Occidente">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="IcF9rRdAtp8" />
+          <attvalue for="2" value="Ministro de Comunicaciones Alejandro Sinibaldi realiza supervisión en la Ruta CA-1 Occidente" />
+          <attvalue for="3" value="Ministerio de Comunicaciones Infraestructura y Vivienda" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="211" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::J6ctng-yAnI" label="CIV PROVIAL GRADUACIÓN XV PROMOCIÓN BRIGADAS 140619">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="J6ctng-yAnI" />
+          <attvalue for="2" value="CIV PROVIAL GRADUACIÓN XV PROMOCIÓN BRIGADAS 140619" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="2981" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::JErfmk-TlRg" label="Rendición de Cuentas - Primer Cuatrimestre 2023">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="JErfmk-TlRg" />
+          <attvalue for="2" value="Rendición de Cuentas - Primer Cuatrimestre 2023" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="32" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::J_HBzJUTOus" label="Presentan estrategia nacional para prevenir violencia durante recorridos de antorchas">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="J_HBzJUTOus" />
+          <attvalue for="2" value="Presentan estrategia nacional para prevenir violencia durante recorridos de antorchas" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="17" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::JdxHJkQjM50" label="🚡 ¿Cómo va avanzando #AeroMetroGT?">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="JdxHJkQjM50" />
+          <attvalue for="2" value="🚡 ¿Cómo va avanzando #AeroMetroGT?" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="20901" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::JgmCtBQWNL8" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="JgmCtBQWNL8" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1165" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::JkpVO1hx2f8" label="10 Preguntas a un año del Paro Nacional">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="JkpVO1hx2f8" />
+          <attvalue for="2" value="10 Preguntas a un año del Paro Nacional" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="673" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::Jr1hJ92H_Nc" label="#SinMáscaras | GUERRA SUCIA PERO SUCIA EN SERIO LLEGA A TV AZTECA CON AMPARO, CAMIN Y CASTAÑEDA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Jr1hJ92H_Nc" />
+          <attvalue for="2" value="#SinMáscaras | GUERRA SUCIA PERO SUCIA EN SERIO LLEGA A TV AZTECA CON AMPARO, CAMIN Y CASTAÑEDA" />
+          <attvalue for="3" value="Manuel Pedrero" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="62941" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::K1IA6oTGws8" label="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="K1IA6oTGws8" />
+          <attvalue for="2" value="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="530" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::K2qWcueeMOc" label="#EnvivoDCA | Conferencia de prensa de Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="K2qWcueeMOc" />
+          <attvalue for="2" value="#EnvivoDCA | Conferencia de prensa de Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="802" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::K50uijsHnAM" label="Informe desde Ciudad de Guatemala: crisis de seguridad tras ataques contra la Policía">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="K50uijsHnAM" />
+          <attvalue for="2" value="Informe desde Ciudad de Guatemala: crisis de seguridad tras ataques contra la Policía" />
+          <attvalue for="3" value="FRANCE 24 Español" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="135249" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::KIO6wIJXYY0" label="Se tiene que cambiar el sistema electoral en Guatemala, asegura exfiscal">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="KIO6wIJXYY0" />
+          <attvalue for="2" value="Se tiene que cambiar el sistema electoral en Guatemala, asegura exfiscal" />
+          <attvalue for="3" value="CNN en Español" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="16830" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::KWCyMd4dxkY" label="Recorrido de los 21K BAM de la Municipalidad de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="KWCyMd4dxkY" />
+          <attvalue for="2" value="Recorrido de los 21K BAM de la Municipalidad de Guatemala" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="13077" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::KkNQhX_kg8A" label="🇬🇹HISTORIA de GUATEMALA en 17 minutos🇬🇹 - El Mapa de Sebas">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="KkNQhX_kg8A" />
+          <attvalue for="2" value="🇬🇹HISTORIA de GUATEMALA en 17 minutos🇬🇹 - El Mapa de Sebas" />
+          <attvalue for="3" value="El Mapa de Sebas" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="749356" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::LRzZy8xBrjA" label="Conferencia de prensa ante el incremento de los combustibles.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="LRzZy8xBrjA" />
+          <attvalue for="2" value="Conferencia de prensa ante el incremento de los combustibles." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="670" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::LeN6wpNIB-4" label="GUATEMALA RECIBE 135 NICARAGUENESES LIBERADOS POR ORTEGA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="LeN6wpNIB-4" />
+          <attvalue for="2" value="GUATEMALA RECIBE 135 NICARAGUENESES LIBERADOS POR ORTEGA" />
+          <attvalue for="3" value="IDocumenta" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="28" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::LqY_vAsa4PY" label="“Guatemala: Una historia escrita con corrupción”">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="LqY_vAsa4PY" />
+          <attvalue for="2" value="“Guatemala: Una historia escrita con corrupción”" />
+          <attvalue for="3" value="PFNSE MEDIA" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="2291" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::MMECHN8SFNw" label="Noticiero en Directo 1 pm, 27 de Agosto de 2026">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="MMECHN8SFNw" />
+          <attvalue for="2" value="Noticiero en Directo 1 pm, 27 de Agosto de 2026" />
+          <attvalue for="3" value="Noticiero Guatevisión 13 Hrs." />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="4838" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::MRJ9mKnXR9M" label="Labor de la PMT es honesta aseguran vecinos">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="MRJ9mKnXR9M" />
+          <attvalue for="2" value="Labor de la PMT es honesta aseguran vecinos" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="1075" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::MdIa2Dtj77I" label="Consejos para tu viaje a Guatemala: hospedaje, telefonía, transporte y más!   ✈️ 🇬🇹">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="MdIa2Dtj77I" />
+          <attvalue for="2" value="Consejos para tu viaje a Guatemala: hospedaje, telefonía, transporte y más!   ✈️ 🇬🇹" />
+          <attvalue for="3" value="Aventuras de una programadora" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="134775" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Mh94uXZvCLo" label="DE LOS BOTS AL RECHAZO: CERIMEDO Y LA “GUERRILLA DE LAS REDES” | CAPÍTULO 3 DE 8">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Mh94uXZvCLo" />
+          <attvalue for="2" value="DE LOS BOTS AL RECHAZO: CERIMEDO Y LA “GUERRILLA DE LAS REDES” | CAPÍTULO 3 DE 8" />
+          <attvalue for="3" value="La  Coma" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="21" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Mme4XikKnlc" label="Municipalidad anuncia 111 nuevos autobuses y 17 rutas para mejorar el transporte en la capital">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Mme4XikKnlc" />
+          <attvalue for="2" value="Municipalidad anuncia 111 nuevos autobuses y 17 rutas para mejorar el transporte en la capital" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="3146" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::N1QkRu38BFE" label="¡YA CAYÓ ALITO MORENO! ALERTA LO DESTITUYEN DIPUTADOS VOTAN PARA SACARLO DEL SENADO! CLAUDIA INFORMA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="N1QkRu38BFE" />
+          <attvalue for="2" value="¡YA CAYÓ ALITO MORENO! ALERTA LO DESTITUYEN DIPUTADOS VOTAN PARA SACARLO DEL SENADO! CLAUDIA INFORMA" />
+          <attvalue for="3" value="Alexis Burelo" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="15747" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::NCvoO61aIfw" label="Ya casi! Así avanza el Aerómetro que cambiará el transporte en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="NCvoO61aIfw" />
+          <attvalue for="2" value="Ya casi! Así avanza el Aerómetro que cambiará el transporte en Guatemala" />
+          <attvalue for="3" value="One Life" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="26744" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::NcIcixCdQH4" label="PNC garantiza seguridad a turistas que visitan el colcán de Agua">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="NcIcixCdQH4" />
+          <attvalue for="2" value="PNC garantiza seguridad a turistas que visitan el colcán de Agua" />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="Science &amp; Technology" />
+          <attvalue for="5" value="7681" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Nc_Iy0MriYw" label="🛑🛑Actualización PROVIAL🛑🛑">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Nc_Iy0MriYw" />
+          <attvalue for="2" value="🛑🛑Actualización PROVIAL🛑🛑" />
+          <attvalue for="3" value="PROVIAL-CIV" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="179" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::NnKpTEfhWjI" label="✅ ASÍ es una EXHIBICION DE BUSES EN GUATEMALA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="NnKpTEfhWjI" />
+          <attvalue for="2" value="✅ ASÍ es una EXHIBICION DE BUSES EN GUATEMALA" />
+          <attvalue for="3" value="De todo Gt" />
+          <attvalue for="4" value="Travel &amp; Events" />
+          <attvalue for="5" value="424874" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::O6gI0ooBM3E" label="¿Cómo es el tráfico en Guatemala? 56 días perdidos cada año y una emergencia nacional">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="O6gI0ooBM3E" />
+          <attvalue for="2" value="¿Cómo es el tráfico en Guatemala? 56 días perdidos cada año y una emergencia nacional" />
+          <attvalue for="3" value="República TV" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="16786" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::OXf_VvvyIDw" label="Municipalidad de Guatemala 31/08/2026">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="OXf_VvvyIDw" />
+          <attvalue for="2" value="Municipalidad de Guatemala 31/08/2026" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="28" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::OgOICSTSa7k" label="¡DÉJAME VIVIR! GUATEMALA INTENSIFICA LA LUCHA CONTRA LA CACERÍA ILEGAL DE FAUNA SILVESTRE">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="OgOICSTSa7k" />
+          <attvalue for="2" value="¡DÉJAME VIVIR! GUATEMALA INTENSIFICA LA LUCHA CONTRA LA CACERÍA ILEGAL DE FAUNA SILVESTRE" />
+          <attvalue for="3" value="IDocumenta" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="6" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::OkXlHx0hx-8" label="EE.UU. envía a mexicanos deportados a Guatemala antes de su regreso a México | Noticias Telemundo">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="OkXlHx0hx-8" />
+          <attvalue for="2" value="EE.UU. envía a mexicanos deportados a Guatemala antes de su regreso a México | Noticias Telemundo" />
+          <attvalue for="3" value="Noticias Telemundo" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="14200" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::On7jqOm1bpg" label="🌟Seguimos avanzando🌱">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="On7jqOm1bpg" />
+          <attvalue for="2" value="🌟Seguimos avanzando🌱" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="10" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Oy6sKBhduu4" label="Realizan Reunión Ordinaria de #CODEDE, 25 de febrero 2025.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Oy6sKBhduu4" />
+          <attvalue for="2" value="Realizan Reunión Ordinaria de #CODEDE, 25 de febrero 2025." />
+          <attvalue for="3" value="Camarita Castro GT" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="84" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Oztw_Hta52I" label="TRAFICO EN GUATEMALA">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Oztw_Hta52I" />
+          <attvalue for="2" value="TRAFICO EN GUATEMALA" />
+          <attvalue for="3" value="CHAPINISIMO" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="2326" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::PMaSDoG0H1U" label="¿Adiós al tráfico? Así es la nueva carretera Radial 6 para Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="PMaSDoG0H1U" />
+          <attvalue for="2" value="¿Adiós al tráfico? Así es la nueva carretera Radial 6 para Guatemala" />
+          <attvalue for="3" value="La Red 1061" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="60" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Pg1qw0KJI4E" label="Surgen detalles de la masacre en Boca del Monte: madre de un bombero e influencer, entre víctimas">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Pg1qw0KJI4E" />
+          <attvalue for="2" value="Surgen detalles de la masacre en Boca del Monte: madre de un bombero e influencer, entre víctimas" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="20503" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::PjmxCj-a9Hg" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="PjmxCj-a9Hg" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="3628" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::Q-MNTYsZgk4" label="¿Qué ha pasado con la contaminación del aire?">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Q-MNTYsZgk4" />
+          <attvalue for="2" value="¿Qué ha pasado con la contaminación del aire?" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="45" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Q7j1OUxkn9w" label="Dañan puerta del área de parqueo del Congreso">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Q7j1OUxkn9w" />
+          <attvalue for="2" value="Dañan puerta del área de parqueo del Congreso" />
+          <attvalue for="3" value="InfoGT Noticias" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="4725" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Q7nhEeibBK4" label="Desfile navideño 2024  -   @MunicipalidaddeGuatemala-1551">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Q7nhEeibBK4" />
+          <attvalue for="2" value="Desfile navideño 2024  -   @MunicipalidaddeGuatemala-1551" />
+          <attvalue for="3" value="ALIS MOLINA CREA" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="255" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::QUG4etpjgos" label="Guatemala Habla sobre la seguridad en el país">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="QUG4etpjgos" />
+          <attvalue for="2" value="Guatemala Habla sobre la seguridad en el país" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="35" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Qc_oHqe4Cjc" label="QUÉ GUARDAS EN LA CINTURA?  🔫🥕🥓🐷🤔@lilyvlogs6899 @ElJuanete1987 @Soychap1n @SimplementeFlori">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Qc_oHqe4Cjc" />
+          <attvalue for="2" value="QUÉ GUARDAS EN LA CINTURA?  🔫🥕🥓🐷🤔@lilyvlogs6899 @ElJuanete1987 @Soychap1n @SimplementeFlori" />
+          <attvalue for="3" value="CANALES ROBOS Y MENTIRAS 💰🧐" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="2166" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::R-fRv_WoZOE" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="R-fRv_WoZOE" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1284" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::RIpKKQh26cg" label="Ejército de Guatemala descubre túnel para fuga masiva en penal de Pavón">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="RIpKKQh26cg" />
+          <attvalue for="2" value="Ejército de Guatemala descubre túnel para fuga masiva en penal de Pavón" />
+          <attvalue for="3" value="TN23 Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="29782" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::RjG-y7Y2-k4" label="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="RjG-y7Y2-k4" />
+          <attvalue for="2" value="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="239" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Rk-3ks9mh3o" label="CIV ✔️ garantiza transparencia 🔍 y rendición de cuentas📝">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Rk-3ks9mh3o" />
+          <attvalue for="2" value="CIV ✔️ garantiza transparencia 🔍 y rendición de cuentas📝" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="21" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ShYWqmOpjFk" label="Ministro de Comunicaciones reitera sobre avances en ruta Palín-Escuintla">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ShYWqmOpjFk" />
+          <attvalue for="2" value="Ministro de Comunicaciones reitera sobre avances en ruta Palín-Escuintla" />
+          <attvalue for="3" value="La Hora" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="242" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::SryjaiL2B4Q" label="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="SryjaiL2B4Q" />
+          <attvalue for="2" value="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="352" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::THY2YBne3QE" label="Los ALUCINANTES autobuses de Guatemala | &quot;Burras&quot;">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="THY2YBne3QE" />
+          <attvalue for="2" value="Los ALUCINANTES autobuses de Guatemala | &quot;Burras&quot;" />
+          <attvalue for="3" value="Luisito Comunica" />
+          <attvalue for="4" value="Comedy" />
+          <attvalue for="5" value="8190449" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::TSID63-IC3Y" label="Operativo Relámpago de -PROVIAL - DGT - DIACO -  en 41 Calle Zona 8 de la ciudad Capital.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="TSID63-IC3Y" />
+          <attvalue for="2" value="Operativo Relámpago de -PROVIAL - DGT - DIACO -  en 41 Calle Zona 8 de la ciudad Capital." />
+          <attvalue for="3" value="PROVIAL-CIV" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="332" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::TT4qJ5FXHYE" label="I’x K’at: el primer equipo guatemalteco de pelota maya, conformado únicamente por mujeres.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="TT4qJ5FXHYE" />
+          <attvalue for="2" value="I’x K’at: el primer equipo guatemalteco de pelota maya, conformado únicamente por mujeres." />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1075" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::TTijnAoFnzY" label="Conred reprograma simulacro nacional para el 24 de febrero">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="TTijnAoFnzY" />
+          <attvalue for="2" value="Conred reprograma simulacro nacional para el 24 de febrero" />
+          <attvalue for="3" value="T13 Noticias Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::TXlMv6bt25w" label="Más de 42 mil afectados por lluvias en Guatemala; Conred reporta 1,046 emergencias">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="TXlMv6bt25w" />
+          <attvalue for="2" value="Más de 42 mil afectados por lluvias en Guatemala; Conred reporta 1,046 emergencias" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="2294" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::TnZGNY1RsJE" label="Festival navideño 2025 @MunicipalidaddeGuatemala-1551">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="TnZGNY1RsJE" />
+          <attvalue for="2" value="Festival navideño 2025 @MunicipalidaddeGuatemala-1551" />
+          <attvalue for="3" value="HeX4EveR" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="148" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::UDFS8gl80h8" label="#AprendeConCONRED qué es el Sistema CONRED y quienes lo conforman.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="UDFS8gl80h8" />
+          <attvalue for="2" value="#AprendeConCONRED qué es el Sistema CONRED y quienes lo conforman." />
+          <attvalue for="3" value="Conred" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="521" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::UTf26hS1UJ8" label="🚦💙 PROVIAL: Proteger y Servir">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="UTf26hS1UJ8" />
+          <attvalue for="2" value="🚦💙 PROVIAL: Proteger y Servir" />
+          <attvalue for="3" value="PROVIAL-CIV" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="38" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::UcvHq8j-J38" label="Ministerio de Comunicaciones, Infraestructura y Vivienda y los Consejos de Desarrollo">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="UcvHq8j-J38" />
+          <attvalue for="2" value="Ministerio de Comunicaciones, Infraestructura y Vivienda y los Consejos de Desarrollo" />
+          <attvalue for="3" value="Ministerio de Finanzas Públicas Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="222" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::UhL9y3KUl8E" label="SHAI WA: la vecina queer de Casa Presidencial">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="UhL9y3KUl8E" />
+          <attvalue for="2" value="SHAI WA: la vecina queer de Casa Presidencial" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1755" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::UzeOcBM9cuU" label="Conred Podcast Episodio 04: Amenaza sísmica y volcánica en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="UzeOcBM9cuU" />
+          <attvalue for="2" value="Conred Podcast Episodio 04: Amenaza sísmica y volcánica en Guatemala" />
+          <attvalue for="3" value="Conred" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="127" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::VfBrLONPnFM" label="ME quité el MIEDO de viajar en los buses de GUATEMALA 🔥">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="VfBrLONPnFM" />
+          <attvalue for="2" value="ME quité el MIEDO de viajar en los buses de GUATEMALA 🔥" />
+          <attvalue for="3" value="De todo Gt" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="329489" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::VgcpKa1h_2Q" label="CONQUISTA LA CIUDAD / 21K BAM de la Municipalidad de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="VgcpKa1h_2Q" />
+          <attvalue for="2" value="CONQUISTA LA CIUDAD / 21K BAM de la Municipalidad de Guatemala" />
+          <attvalue for="3" value="21KMuniGuate" />
+          <attvalue for="4" value="Sports" />
+          <attvalue for="5" value="3110" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::VuIl4tjeKGQ" label="La ciudad sigue modernizándose para ti y tu familia.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="VuIl4tjeKGQ" />
+          <attvalue for="2" value="La ciudad sigue modernizándose para ti y tu familia." />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="39168" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::W415t12o3DA" label="Mujer con crisis nerviosa tras intento de asalto">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="W415t12o3DA" />
+          <attvalue for="2" value="Mujer con crisis nerviosa tras intento de asalto" />
+          <attvalue for="3" value="TN23 Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="4737" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::WIUZtitfLRw" label="Caminar en una ciudad hecha para carros">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="WIUZtitfLRw" />
+          <attvalue for="2" value="Caminar en una ciudad hecha para carros" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="422" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::WQcgx8rs0Qo" label="PMT SE BURL4 DE UN MOTORISTA D1SC4PACIT4D0, DISCULPESE POR FAVOR VILLA NUEVA, GUATEMALA.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="WQcgx8rs0Qo" />
+          <attvalue for="2" value="PMT SE BURL4 DE UN MOTORISTA D1SC4PACIT4D0, DISCULPESE POR FAVOR VILLA NUEVA, GUATEMALA." />
+          <attvalue for="3" value="Cronos Time GT" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="1861" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::WXA2Apo79jA" label="Resumen de atención a Emergencias CIV">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="WXA2Apo79jA" />
+          <attvalue for="2" value="Resumen de atención a Emergencias CIV" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="29" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::WXgGL9rZUHo" label="#EnvivoDCA | Conferencia de prensa del Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="WXgGL9rZUHo" />
+          <attvalue for="2" value="#EnvivoDCA | Conferencia de prensa del Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="190" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::XLkVzqqL34Q" label="Nueva Mega Autopista Xochi en Guatemala 🇬🇹 ¿Vale la pena? (Te ahorra hasta 3 horas)">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="XLkVzqqL34Q" />
+          <attvalue for="2" value="Nueva Mega Autopista Xochi en Guatemala 🇬🇹 ¿Vale la pena? (Te ahorra hasta 3 horas)" />
+          <attvalue for="3" value="One Life" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="44510" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::XVZM15KVXjM" label="Conoce sobre la actualización de la Norma para la Reducción de Desastres número 2 (NRD2).">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="XVZM15KVXjM" />
+          <attvalue for="2" value="Conoce sobre la actualización de la Norma para la Reducción de Desastres número 2 (NRD2)." />
+          <attvalue for="3" value="Conred" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="267" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::X_FAIef8qlE" label="Cruzando la ciudad a puro Transmetro">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="X_FAIef8qlE" />
+          <attvalue for="2" value="Cruzando la ciudad a puro Transmetro" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1140" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::XktDG8dmcd0" label="Torrenciales lluvias dejan decenas de muertos y miles de evacuados">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="XktDG8dmcd0" />
+          <attvalue for="2" value="Torrenciales lluvias dejan decenas de muertos y miles de evacuados" />
+          <attvalue for="3" value="DW Español" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="5171" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::YJohmVLc9QA" label="How to Get Around Guatemala: Complete Transportation Guide (2026)">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="YJohmVLc9QA" />
+          <attvalue for="2" value="How to Get Around Guatemala: Complete Transportation Guide (2026)" />
+          <attvalue for="3" value="Chris &amp; Grace" />
+          <attvalue for="4" value="Travel &amp; Events" />
+          <attvalue for="5" value="3897" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::YLFXK2c60Xc" label="Por estas razones el 65% de las denuncias por violación en Guatemala nunca llega a un tribunal">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="YLFXK2c60Xc" />
+          <attvalue for="2" value="Por estas razones el 65% de las denuncias por violación en Guatemala nunca llega a un tribunal" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="200" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::YSsECnqTVik" label="Suscriben convenios para transferencia de fondos a CAIMUS y entidades especializadas">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="YSsECnqTVik" />
+          <attvalue for="2" value="Suscriben convenios para transferencia de fondos a CAIMUS y entidades especializadas" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="15" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ZHJoIah2Owo" label="Conoce como funciona el Sistema Conred  #laprevenciónestareadetodos">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ZHJoIah2Owo" />
+          <attvalue for="2" value="Conoce como funciona el Sistema Conred  #laprevenciónestareadetodos" />
+          <attvalue for="3" value="Conred" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="182" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ZNwStkzWgso" label="Elección judicial en Guatemala: Astrid Lemus y Luis Bermejo electos para corte de constitucionalidad">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ZNwStkzWgso" />
+          <attvalue for="2" value="Elección judicial en Guatemala: Astrid Lemus y Luis Bermejo electos para corte de constitucionalidad" />
+          <attvalue for="3" value="CNN en Español" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="24636" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ZPBiWdHXg20" label="Piloto de tráiler accidentado en ruta al Atlántico era un menor y murió en el lugar">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ZPBiWdHXg20" />
+          <attvalue for="2" value="Piloto de tráiler accidentado en ruta al Atlántico era un menor y murió en el lugar" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="233632" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ZS74P3DnykA" label="Policía Nacional Civil gradúa 3,978 nuevos agentes">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ZS74P3DnykA" />
+          <attvalue for="2" value="Policía Nacional Civil gradúa 3,978 nuevos agentes" />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="115270" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::Z_pWnOi7oRw" label="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="Z_pWnOi7oRw" />
+          <attvalue for="2" value="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1329" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ZhrDgVZkhg4" label="FORMACION BRIGADA DE PROVIAL">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ZhrDgVZkhg4" />
+          <attvalue for="2" value="FORMACION BRIGADA DE PROVIAL" />
+          <attvalue for="3" value="PROVIAL GUATEMALA" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="4419" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::_1VIxOLyaUQ" label="Sonido de trafico y ciudad 💤 ruido de calle para dormir bebés y relajarse">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="_1VIxOLyaUQ" />
+          <attvalue for="2" value="Sonido de trafico y ciudad 💤 ruido de calle para dormir bebés y relajarse" />
+          <attvalue for="3" value="Ambient Sound Explorer" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="330057" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::_3kK0or6QI0" label="PROVIAL guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="_3kK0or6QI0" />
+          <attvalue for="2" value="PROVIAL guatemala" />
+          <attvalue for="3" value="heto009" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="2054" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::_Lcbi4NCHRA" label="Tercer Informe General de la República">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="_Lcbi4NCHRA" />
+          <attvalue for="2" value="Tercer Informe General de la República" />
+          <attvalue for="3" value="Gobierno de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="305269" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::_NSq2q0mzCY" label="42K y 21K MuniGuate 🏃🏻🏃🏻‍♀️">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="_NSq2q0mzCY" />
+          <attvalue for="2" value="42K y 21K MuniGuate 🏃🏻🏃🏻‍♀️" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="47" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::_cUZT7LMKE0" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="_cUZT7LMKE0" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGt" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="2708" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::a2zgl-1KZwY" label="#CadenaNacional | Mensaje del Presidente Bernardo Arévalo a la nación">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="a2zgl-1KZwY" />
+          <attvalue for="2" value="#CadenaNacional | Mensaje del Presidente Bernardo Arévalo a la nación" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="2334" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::a3QGSpNx9Mg" label="Guatemala ya no aguanta el tráfico… ¿Funcionará el Aerómetro?">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="a3QGSpNx9Mg" />
+          <attvalue for="2" value="Guatemala ya no aguanta el tráfico… ¿Funcionará el Aerómetro?" />
+          <attvalue for="3" value="Entre Caminos" />
+          <attvalue for="4" value="Travel &amp; Events" />
+          <attvalue for="5" value="8098" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::a6QFfhpY53g" label="Provial Informa">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="a6QFfhpY53g" />
+          <attvalue for="2" value="Provial Informa" />
+          <attvalue for="3" value="PROVIAL-CIV" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="49" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::aRKgOSxgsF0" label="@GobiernodeGuatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="aRKgOSxgsF0" />
+          <attvalue for="2" value="@GobiernodeGuatemala" />
+          <attvalue for="3" value="luis arturo ceberg ulban" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="2" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::aSbvMYJhmCc" label="Policía Nacional Civil">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="aSbvMYJhmCc" />
+          <attvalue for="2" value="Policía Nacional Civil" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="4346" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::a_kAe9IhBbo" label="Tráiler impacta pasarela en Aguilar Batres y provoca cierre parcial hacia la capital">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="a_kAe9IhBbo" />
+          <attvalue for="2" value="Tráiler impacta pasarela en Aguilar Batres y provoca cierre parcial hacia la capital" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="255" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ahicr7fQREY" label="Conred Podcast Episodio 9: Servidores Cívicos construyendo una cultura de prevención">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ahicr7fQREY" />
+          <attvalue for="2" value="Conred Podcast Episodio 9: Servidores Cívicos construyendo una cultura de prevención" />
+          <attvalue for="3" value="Conred" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="65" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::almmnboHkwM" label="Se mueve Guate 🚌">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="almmnboHkwM" />
+          <attvalue for="2" value="Se mueve Guate 🚌" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="297" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::anFbrgqxdzY" label="Horas Antes del Big One | Dentro de Ciudad de Guatemala Exactamente Antes del Terremoto (1976)">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="anFbrgqxdzY" />
+          <attvalue for="2" value="Horas Antes del Big One | Dentro de Ciudad de Guatemala Exactamente Antes del Terremoto (1976)" />
+          <attvalue for="3" value="Nostalgia Latina" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="222656" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::aoz2j4TTl4E" label="Rutas Alternas a partir del lunes 03 de agosto por avances de #AeroMetroGT">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="aoz2j4TTl4E" />
+          <attvalue for="2" value="Rutas Alternas a partir del lunes 03 de agosto por avances de #AeroMetroGT" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="8905" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::bBz8nX4pMxc" label="Conred e Insivumeh informan sobre sismos en Guatemala este 31 de julio">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="bBz8nX4pMxc" />
+          <attvalue for="2" value="Conred e Insivumeh informan sobre sismos en Guatemala este 31 de julio" />
+          <attvalue for="3" value="Guatevisión" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1115" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::bMoENbSBSNs" label="¿Por qué Guatemala es una República? El decreto del 21 de marzo de 1847 y Rafael Carrera">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="bMoENbSBSNs" />
+          <attvalue for="2" value="¿Por qué Guatemala es una República? El decreto del 21 de marzo de 1847 y Rafael Carrera" />
+          <attvalue for="3" value="El profe de Historia Gt" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="1134" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::b_Hkrkl3adA" label="Bloqueos en Guatemala este 31 de agosto por alza en combustibles afectan rutas principales">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="b_Hkrkl3adA" />
+          <attvalue for="2" value="Bloqueos en Guatemala este 31 de agosto por alza en combustibles afectan rutas principales" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="5469" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::bg1KCMaIrRM" label="¡Atención, vecinos!">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="bg1KCMaIrRM" />
+          <attvalue for="2" value="¡Atención, vecinos!" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1965" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::bzosgvntOXU" label="Municipalidad de Guatemala 05/09/2025">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="bzosgvntOXU" />
+          <attvalue for="2" value="Municipalidad de Guatemala 05/09/2025" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="160" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::cl3Rpw9MstQ" label="Municipalidad de Guatemala sigue trabajando">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="cl3Rpw9MstQ" />
+          <attvalue for="2" value="Municipalidad de Guatemala sigue trabajando" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="484" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::cpoiRUtF9uU" label="Congreso termina jornada sin acuerdos para aliviar precio de combustibles #ALAS7AM (02/09/2026)">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="cpoiRUtF9uU" />
+          <attvalue for="2" value="Congreso termina jornada sin acuerdos para aliviar precio de combustibles #ALAS7AM (02/09/2026)" />
+          <attvalue for="3" value="Canal Antigua" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="117" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::csqia7f3OIE" label="SISTEMA CONRED Y METODOLOGÍA DE LOS 6 PASOS">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="csqia7f3OIE" />
+          <attvalue for="2" value="SISTEMA CONRED Y METODOLOGÍA DE LOS 6 PASOS" />
+          <attvalue for="3" value="Carlitos Gamboa" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="509" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::d-V_Aw1t6nI" label="Graduacion  de la 57 Promocion  de la Policia Nacional Civil  de Guatemala.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="d-V_Aw1t6nI" />
+          <attvalue for="2" value="Graduacion  de la 57 Promocion  de la Policia Nacional Civil  de Guatemala." />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="1643" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::dJcNu9YYwh4" label="Lluvias, ceniza y calor extremo: así estará el clima en Guatemala, según Insivumeh">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="dJcNu9YYwh4" />
+          <attvalue for="2" value="Lluvias, ceniza y calor extremo: así estará el clima en Guatemala, según Insivumeh" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1061" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::dLctzx8qCgA" label="¿Cómo la CIA ALTERÓ el DESTINO de GUATEMALA para siempre?">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="dLctzx8qCgA" />
+          <attvalue for="2" value="¿Cómo la CIA ALTERÓ el DESTINO de GUATEMALA para siempre?" />
+          <attvalue for="3" value="Alan Delmonte" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="108616" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::dWhSTyhegeQ" label="Personal de Provial explica de empresas que verificarán implementación de limitadores de velocidad">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="dWhSTyhegeQ" />
+          <attvalue for="2" value="Personal de Provial explica de empresas que verificarán implementación de limitadores de velocidad" />
+          <attvalue for="3" value="La Hora" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="341" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::dccwBXfxxiI" label="¡Espacios iluminados y seguros!">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="dccwBXfxxiI" />
+          <attvalue for="2" value="¡Espacios iluminados y seguros!" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="38773" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::dsyLiSCrwcU" label="3 KIEBRES ES DOLOROSO QUE EN CHIQUIMULA AÚN HAY COMUNIDADES SIN ENERGÍA ELÉCTRICA, GUATEMALA.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="dsyLiSCrwcU" />
+          <attvalue for="2" value="3 KIEBRES ES DOLOROSO QUE EN CHIQUIMULA AÚN HAY COMUNIDADES SIN ENERGÍA ELÉCTRICA, GUATEMALA." />
+          <attvalue for="3" value="Cronos Time GT" />
+          <attvalue for="4" value="Education" />
+          <attvalue for="5" value="701" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::dvy9rQpqLWY" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="dvy9rQpqLWY" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="959" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::dya9nbxqWXE" label="ANDY EL MUÑEQUITO TRABAJADOR 🥴🏍🥴🤣@Soychap1n @lucilaylossinar @lilyvlogs6899">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="dya9nbxqWXE" />
+          <attvalue for="2" value="ANDY EL MUÑEQUITO TRABAJADOR 🥴🏍🥴🤣@Soychap1n @lucilaylossinar @lilyvlogs6899" />
+          <attvalue for="3" value="CANALES ROBOS Y MENTIRAS 💰🧐" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="4939" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ebbgBtNrRz8" label="Las fuertes lluvias en Guatemala dejan al menos tres fallecidos en zonas rurales | Telemundo">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ebbgBtNrRz8" />
+          <attvalue for="2" value="Las fuertes lluvias en Guatemala dejan al menos tres fallecidos en zonas rurales | Telemundo" />
+          <attvalue for="3" value="Noticias Telemundo" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="63249" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ewdf3q1tuCA" label="INTERPOL Guatemala captura a mujer por prostituir a señoritas">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ewdf3q1tuCA" />
+          <attvalue for="2" value="INTERPOL Guatemala captura a mujer por prostituir a señoritas" />
+          <attvalue for="3" value="Noti7" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="71048" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::fBljA_npiMs" label="Refuerzan acciones para prevenir y combatir la trata de personas">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="fBljA_npiMs" />
+          <attvalue for="2" value="Refuerzan acciones para prevenir y combatir la trata de personas" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="36" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::fenMcON-DjY" label="Encendido del Fuego Patrio y Mensaje Vicepresidencial">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="fenMcON-DjY" />
+          <attvalue for="2" value="Encendido del Fuego Patrio y Mensaje Vicepresidencial" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="424" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ffguGnMImL0" label="CIV inicia trabajos de bacheo y limpieza en las diferentes rutas del país">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ffguGnMImL0" />
+          <attvalue for="2" value="CIV inicia trabajos de bacheo y limpieza en las diferentes rutas del país" />
+          <attvalue for="3" value="Gobierno de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="848" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::g0aCNpZaAZ8" label="PMT de Guatemala es ejemplo para otros municipios">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="g0aCNpZaAZ8" />
+          <attvalue for="2" value="PMT de Guatemala es ejemplo para otros municipios" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="4103" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::gF42rhVhP8w" label="Tenemos un gran problema con la seguridad de las construcciones en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="gF42rhVhP8w" />
+          <attvalue for="2" value="Tenemos un gran problema con la seguridad de las construcciones en Guatemala" />
+          <attvalue for="3" value="TanGente Podcast" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="9033" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::gbcggAMJczg" label="Dionel  Art s Vídeo danzando con la muerte">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="gbcggAMJczg" />
+          <attvalue for="2" value="Dionel  Art s Vídeo danzando con la muerte" />
+          <attvalue for="3" value="Dionel.Art_music" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="7" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::go4jAhCJS0w" label="Así reaccionaría la guardia presidencial de la Saas en caso de una emergencia">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="go4jAhCJS0w" />
+          <attvalue for="2" value="Así reaccionaría la guardia presidencial de la Saas en caso de una emergencia" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="7381" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::hGOvuWe8P3Q" label="🔴ENTREGAN A NOROÑA ALITO NEGOCIA CON MONREAL PREPARAN MEGÁFONOS PORROS DEL PRIAN">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="hGOvuWe8P3Q" />
+          <attvalue for="2" value="🔴ENTREGAN A NOROÑA ALITO NEGOCIA CON MONREAL PREPARAN MEGÁFONOS PORROS DEL PRIAN" />
+          <attvalue for="3" value="Vittor Blogs" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="6682" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::hy0mwEHr6V0" label="MI3 será utilizado dentro de las evaluaciones a aspirantes a PNC">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="hy0mwEHr6V0" />
+          <attvalue for="2" value="MI3 será utilizado dentro de las evaluaciones a aspirantes a PNC" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="127595" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::iBX5DMQSf3s" label="Conmemoramos el 153 Aniversario de la Escuela Politécnica y Día del cadete.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="iBX5DMQSf3s" />
+          <attvalue for="2" value="Conmemoramos el 153 Aniversario de la Escuela Politécnica y Día del cadete." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1264" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::iCbGedZRRE8" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="iCbGedZRRE8" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1058" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::iEmScdnYQdg" label="La nueva ruta que evita El Trébol">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="iEmScdnYQdg" />
+          <attvalue for="2" value="La nueva ruta que evita El Trébol" />
+          <attvalue for="3" value="Tráfico Sin Censura" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="8502" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::iWYddxEszoM" label="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="iWYddxEszoM" />
+          <attvalue for="2" value="#EnVivoDCA | Conferencia de prensa del Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="264" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::iacCQ4VyWWc" label="Los conservadores y los liberales, Historia de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="iacCQ4VyWWc" />
+          <attvalue for="2" value="Los conservadores y los liberales, Historia de Guatemala" />
+          <attvalue for="3" value="Panda 01" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="25431" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ifJFNGT4azU" label="Podcast Guatemala Ahora Yo Se: Medidas De Seguridad Con el Lic. Ariel Yos y el Lic. Gabriel Quiñones">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ifJFNGT4azU" />
+          <attvalue for="2" value="Podcast Guatemala Ahora Yo Se: Medidas De Seguridad Con el Lic. Ariel Yos y el Lic. Gabriel Quiñones" />
+          <attvalue for="3" value="Ahora Yose" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="3631" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::is3Mk5oC19g" label="Capturan a ladrón que había quedado grabado mientras robaba en una parroquia de Retalhuleu">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="is3Mk5oC19g" />
+          <attvalue for="2" value="Capturan a ladrón que había quedado grabado mientras robaba en una parroquia de Retalhuleu" />
+          <attvalue for="3" value="TN23 Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="4616" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::j43HgwYFKfk" label="La cooptación de Walter Mazariegos en la USAC">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="j43HgwYFKfk" />
+          <attvalue for="2" value="La cooptación de Walter Mazariegos en la USAC" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="10156" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::j4akBH678fw" label="El paso a desnivel Calzada Roosevelt lleva más conexión y mejor movilidad para la población.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="j4akBH678fw" />
+          <attvalue for="2" value="El paso a desnivel Calzada Roosevelt lleva más conexión y mejor movilidad para la población." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="649" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::jQGvhMPMuAI" label="#DiálogoCentral | El clima de la semana: adiós a la canícula ¿llegan las lluvias? 🌦️">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="jQGvhMPMuAI" />
+          <attvalue for="2" value="#DiálogoCentral | El clima de la semana: adiós a la canícula ¿llegan las lluvias? 🌦️" />
+          <attvalue for="3" value="Canal Antigua" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="214" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::jSw-nFh94qQ" label="Gobernación promueve espacios de sana convivencia">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="jSw-nFh94qQ" />
+          <attvalue for="2" value="Gobernación promueve espacios de sana convivencia" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="59" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::kaZgtwqwLrI" label="@rumzacapait @GobiernodeGuatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="kaZgtwqwLrI" />
+          <attvalue for="2" value="@rumzacapait @GobiernodeGuatemala" />
+          <attvalue for="3" value="TRAYECTORIA Y EXITO CON ANABELLA CORDON" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="74" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::kjwvEESqSHA" label="¿VALE la PENA VIAJAR de GUATEMALA a  XELA en BUS?  Descúbrelo">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="kjwvEESqSHA" />
+          <attvalue for="2" value="¿VALE la PENA VIAJAR de GUATEMALA a  XELA en BUS?  Descúbrelo" />
+          <attvalue for="3" value="De todo Gt" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="216172" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::l-mH80ygqFY" label="Avances en proyectos municipales por el desarrollo y bienestar en la ciudad.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="l-mH80ygqFY" />
+          <attvalue for="2" value="Avances en proyectos municipales por el desarrollo y bienestar en la ciudad." />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="256" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::lAsODhYGcTE" label="Gobierno busca a toda costa sacar a Consuelo Porras">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="lAsODhYGcTE" />
+          <attvalue for="2" value="Gobierno busca a toda costa sacar a Consuelo Porras" />
+          <attvalue for="3" value="Noticias VR" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="3" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::lNuxq8OKCpc" label="Lluvias convierten calles en ríos en Villa Nueva y San Miguel Petapa">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="lNuxq8OKCpc" />
+          <attvalue for="2" value="Lluvias convierten calles en ríos en Villa Nueva y San Miguel Petapa" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="7663" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::lYyGqHAL5nM" label="Comuna lanzó nueva imagen de la PM y PMT">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="lYyGqHAL5nM" />
+          <attvalue for="2" value="Comuna lanzó nueva imagen de la PM y PMT" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="286" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::lj983NWyAQY" label="Plan 2032 Ciudad de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="lj983NWyAQY" />
+          <attvalue for="2" value="Plan 2032 Ciudad de Guatemala" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="304089" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::lkdwGwrJKeM" label="🇬🇹 ¿Es seguro VIAJAR a Guatemala? Consejos prácticos para que todo te salga bien">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="lkdwGwrJKeM" />
+          <attvalue for="2" value="🇬🇹 ¿Es seguro VIAJAR a Guatemala? Consejos prácticos para que todo te salga bien" />
+          <attvalue for="3" value="Un Angel Viajando" />
+          <attvalue for="4" value="Travel &amp; Events" />
+          <attvalue for="5" value="5298" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::mCoOL2p0il4" label="Municipalidad de Guatemala   08/08/2025">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="mCoOL2p0il4" />
+          <attvalue for="2" value="Municipalidad de Guatemala   08/08/2025" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="118" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::mPtR2HskBTE" label="Municipalidad de Guatemala   17/02/2025">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="mPtR2HskBTE" />
+          <attvalue for="2" value="Municipalidad de Guatemala   17/02/2025" />
+          <attvalue for="3" value="Concejales de Oposición - Muni Guate" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="729" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::mQH6bhmp_LY" label="Quorum: ¿Cómo investigamos la crisis del agua?">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="mQH6bhmp_LY" />
+          <attvalue for="2" value="Quorum: ¿Cómo investigamos la crisis del agua?" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="142" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::n31eyGuRKqo" label="El tráfico en Guatemala nos está enfermando - TanGente Salud Mental">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="n31eyGuRKqo" />
+          <attvalue for="2" value="El tráfico en Guatemala nos está enfermando - TanGente Salud Mental" />
+          <attvalue for="3" value="TanGente Podcast" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="932" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::n4xHxJPNr78" label="🚫LOS FAMOSOS BUSES ESMERALDA los mas RÁPIDOS DE GUATEMALA 😱">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="n4xHxJPNr78" />
+          <attvalue for="2" value="🚫LOS FAMOSOS BUSES ESMERALDA los mas RÁPIDOS DE GUATEMALA 😱" />
+          <attvalue for="3" value="De todo Gt" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="3152619" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::n8iP75gIpmw" label="Qué rico come tu diputado">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="n8iP75gIpmw" />
+          <attvalue for="2" value="Qué rico come tu diputado" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="11775" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::nKJhNH86HGE" label="Se realiza taller de UNICEF sobre el plan de acción de la política pública contra la violencia sexua">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="nKJhNH86HGE" />
+          <attvalue for="2" value="Se realiza taller de UNICEF sobre el plan de acción de la política pública contra la violencia sexua" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="7" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::nPbC8-Ebat4" label="Pareja de sicarios capturada tras ataque armado contra piloto de autobús">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="nPbC8-Ebat4" />
+          <attvalue for="2" value="Pareja de sicarios capturada tras ataque armado contra piloto de autobús" />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="Science &amp; Technology" />
+          <attvalue for="5" value="70537" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ncOU7iZR5jY" label="Carlos Pineda y Andre Pozuelos | Seguridad II- Guatemala tiene solución | Ep. 3">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ncOU7iZR5jY" />
+          <attvalue for="2" value="Carlos Pineda y Andre Pozuelos | Seguridad II- Guatemala tiene solución | Ep. 3" />
+          <attvalue for="3" value="Carlos Pineda" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="3279" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::ndAZjHqzzT8" label="Internet: escoger el menos malo">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="ndAZjHqzzT8" />
+          <attvalue for="2" value="Internet: escoger el menos malo" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="717" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::nhhXiHI4rrw" label="Policía Nacional Civil participa en desfile del día del Ejército. #ProtegerYServir">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="nhhXiHI4rrw" />
+          <attvalue for="2" value="Policía Nacional Civil participa en desfile del día del Ejército. #ProtegerYServir" />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="21534" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::nv6wMdQ997Q" label="PMT en todo">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="nv6wMdQ997Q" />
+          <attvalue for="2" value="PMT en todo" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="2107" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::pNInRBsPbHE" label="Encuentro por el agua">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="pNInRBsPbHE" />
+          <attvalue for="2" value="Encuentro por el agua" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="185" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::qFsSnnRdJBg" label="Avanza construcción de la Estrategia Nacional de Datos Abiertos">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="qFsSnnRdJBg" />
+          <attvalue for="2" value="Avanza construcción de la Estrategia Nacional de Datos Abiertos" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="11" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::qrdEegnTnaY" label="XVII Promoción de Brigadas PROVIAL">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="qrdEegnTnaY" />
+          <attvalue for="2" value="XVII Promoción de Brigadas PROVIAL" />
+          <attvalue for="3" value="PROVIAL-CIV" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="416" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::rNpBtQXUMbE" label="PMT es ejemplo en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="rNpBtQXUMbE" />
+          <attvalue for="2" value="PMT es ejemplo en Guatemala" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="3212" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::rQEb4el3Lok" label="Policía Nacional Civil en busca de mareros, imitadores y colaboradores de grupos delictivos">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="rQEb4el3Lok" />
+          <attvalue for="2" value="Policía Nacional Civil en busca de mareros, imitadores y colaboradores de grupos delictivos" />
+          <attvalue for="3" value="PNCdeGuatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="9637" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::rSQKmOX1Tfc" label="TU VIDA VALE  PROVIAL  TIEMPO AZUL &amp; PAOLA PÉRLOP">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="rSQKmOX1Tfc" />
+          <attvalue for="2" value="TU VIDA VALE  PROVIAL  TIEMPO AZUL &amp; PAOLA PÉRLOP" />
+          <attvalue for="3" value="Mosca Visión" />
+          <attvalue for="4" value="Music" />
+          <attvalue for="5" value="5262" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::rjFut_yJcr8" label="Ministro de CIV conversó sobre los retos  actuales de la infraestructura vial en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="rjFut_yJcr8" />
+          <attvalue for="2" value="Ministro de CIV conversó sobre los retos  actuales de la infraestructura vial en Guatemala" />
+          <attvalue for="3" value="Canal Antigua" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="800" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::s0eco-BofOs" label="¿Quiénes pagan más en Centroamérica?">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="s0eco-BofOs" />
+          <attvalue for="2" value="¿Quiénes pagan más en Centroamérica?" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="220" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::sAPrXzrdstM" label="Funciones del Ministerio de Gobernación">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="sAPrXzrdstM" />
+          <attvalue for="2" value="Funciones del Ministerio de Gobernación" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="8970" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::soZMwC0Cj18" label="Lluvias causan inundaciones y deslizamiento en Alta Verapaz">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="soZMwC0Cj18" />
+          <attvalue for="2" value="Lluvias causan inundaciones y deslizamiento en Alta Verapaz" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1405" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::tEfZlrP4L5I" label="#EnVivoDCA | Conferencia de Prensa del Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="tEfZlrP4L5I" />
+          <attvalue for="2" value="#EnVivoDCA | Conferencia de Prensa del Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="265" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::tK__qZZ-H5w" label="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="tK__qZZ-H5w" />
+          <attvalue for="2" value="Conferencia de Prensa del Gobierno de Guatemala. #LaRondaGT" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="866" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::tXLhWHWGaao" label="Breve historia política de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="tXLhWHWGaao" />
+          <attvalue for="2" value="Breve historia política de Guatemala" />
+          <attvalue for="3" value="Crónica Panamericana" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="144134" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::tb6LaOWGAIo" label="Guía Definitiva para viajar a Guatemala 2026 🇬🇹 Qué ver, itinerarios, precios y consejos">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="tb6LaOWGAIo" />
+          <attvalue for="2" value="Guía Definitiva para viajar a Guatemala 2026 🇬🇹 Qué ver, itinerarios, precios y consejos" />
+          <attvalue for="3" value="Welcome to el Mundo" />
+          <attvalue for="4" value="Travel &amp; Events" />
+          <attvalue for="5" value="104869" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::tcAQGuuo_Uc" label="El Ministerio de Gobernación Guatemala  brinda conferencia de prensa.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="tcAQGuuo_Uc" />
+          <attvalue for="2" value="El Ministerio de Gobernación Guatemala  brinda conferencia de prensa." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="2254" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::tg2QuZFdn4c" label="🔴 En Vivo |  Sesión Solemne de Consejo de Gobierno en Limón">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="tg2QuZFdn4c" />
+          <attvalue for="2" value="🔴 En Vivo |  Sesión Solemne de Consejo de Gobierno en Limón" />
+          <attvalue for="3" value="Presidencia de la República" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="15726" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::tmvTbeQNCTI" label="Hoy SABRÁN Qué Grado ACADÉMICO Tenemos, Todos Son PROFESIONALES">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="tmvTbeQNCTI" />
+          <attvalue for="2" value="Hoy SABRÁN Qué Grado ACADÉMICO Tenemos, Todos Son PROFESIONALES" />
+          <attvalue for="3" value="Gente de Guate" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="15482" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::tqcZFVSXARQ" label="¿Listo para decir tengo #MiPrimeraCasa? 🏠✨">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="tqcZFVSXARQ" />
+          <attvalue for="2" value="¿Listo para decir tengo #MiPrimeraCasa? 🏠✨" />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1373" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::vA6p51f14J4" label="Horarios especiales por celebraciones de fin de año">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="vA6p51f14J4" />
+          <attvalue for="2" value="Horarios especiales por celebraciones de fin de año" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="606" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::vCtk_0NzB3s" label="Clima en Guatemala esta semana: calor de hasta 39 °C y lluvias con tormentas">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="vCtk_0NzB3s" />
+          <attvalue for="2" value="Clima en Guatemala esta semana: calor de hasta 39 °C y lluvias con tormentas" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1534" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::vDVXM8ODuzM" label="#EnVivoDCA | Conferencia de Prensa del Gobierno de Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="vDVXM8ODuzM" />
+          <attvalue for="2" value="#EnVivoDCA | Conferencia de Prensa del Gobierno de Guatemala" />
+          <attvalue for="3" value="Diario de Centro América" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="214" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::vNUiF-stTdo" label="resumen de noticias">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="vNUiF-stTdo" />
+          <attvalue for="2" value="resumen de noticias" />
+          <attvalue for="3" value="INFOM TV" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="23" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::vp9MPfDG6AE" label="Comunicado – COVIAL / Ministerio de Comunicaciones, Infraestructura y Vivienda">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="vp9MPfDG6AE" />
+          <attvalue for="2" value="Comunicado – COVIAL / Ministerio de Comunicaciones, Infraestructura y Vivienda" />
+          <attvalue for="3" value="Noti7" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="260" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::vqcF9RFMOLQ" label="Ciudad de Guatemala, el mejor lugar para vivir">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="vqcF9RFMOLQ" />
+          <attvalue for="2" value="Ciudad de Guatemala, el mejor lugar para vivir" />
+          <attvalue for="3" value="Municipalidad de Guatemala" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="215" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::w57G_5jsqtU" label="Tráfico intenso por regreso a clases del sector público extiende horas pico en el área metropolitana">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="w57G_5jsqtU" />
+          <attvalue for="2" value="Tráfico intenso por regreso a clases del sector público extiende horas pico en el área metropolitana" />
+          <attvalue for="3" value="PrensaLibreOficial" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="625" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::wS6yC3yOAeA" label="Noticiero El Informativo. Nuestra semana de resultados.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="wS6yC3yOAeA" />
+          <attvalue for="2" value="Noticiero El Informativo. Nuestra semana de resultados." />
+          <attvalue for="3" value="Gobierno de la República de Guatemala" />
+          <attvalue for="4" value="Entertainment" />
+          <attvalue for="5" value="1383" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::wVncmfsugww" label="Spot Rendición de Cuentas, tercer cuatrimestre 2023 - 1">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="wVncmfsugww" />
+          <attvalue for="2" value="Spot Rendición de Cuentas, tercer cuatrimestre 2023 - 1" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="15" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::wYZPaJdVuhE" label="#LaCharla ¿Quién dirigirá el sistema portuario y qué decisiones debe tomar primero?">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="wYZPaJdVuhE" />
+          <attvalue for="2" value="#LaCharla ¿Quién dirigirá el sistema portuario y qué decisiones debe tomar primero?" />
+          <attvalue for="3" value="Guatevisión" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="202" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::wm1f52Mvzag" label="Gloria Álvarez: ¿Podría ser la próxima presidenta de Guatemala?">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="wm1f52Mvzag" />
+          <attvalue for="2" value="Gloria Álvarez: ¿Podría ser la próxima presidenta de Guatemala?" />
+          <attvalue for="3" value="Jorge Ramos" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="31357" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::wpYwX-bGoz0" label="CIV prioriza proyectos con potencial para generar desarrollo en Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="wpYwX-bGoz0" />
+          <attvalue for="2" value="CIV prioriza proyectos con potencial para generar desarrollo en Guatemala" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="468" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::x9TPnjUeuoo" label="VIDEO INSTITUCIONAL PROVIAL">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="x9TPnjUeuoo" />
+          <attvalue for="2" value="VIDEO INSTITUCIONAL PROVIAL" />
+          <attvalue for="3" value="CIV -Ministerio de Comunicaciones" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="2250" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::xEcC_aMDhAk" label="MINGOB y COPADEH avanzan en la protección de personas defensoras de DDHH">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="xEcC_aMDhAk" />
+          <attvalue for="2" value="MINGOB y COPADEH avanzan en la protección de personas defensoras de DDHH" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="17" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::xQgP0n8hVSI" label="Primero te usan, y cuando ya no les sirves te desechan.">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="xQgP0n8hVSI" />
+          <attvalue for="2" value="Primero te usan, y cuando ya no les sirves te desechan." />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="28" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::x_CB0ZRLQTA" label="Ricardo Quiñónez paga con nuestros impuestos netcenter">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="x_CB0ZRLQTA" />
+          <attvalue for="2" value="Ricardo Quiñónez paga con nuestros impuestos netcenter" />
+          <attvalue for="3" value="AlcaldexAccidente" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="29419" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::y8XMbMxMF8E" label="Gracias a la inteligencia, coordinación y firmeza, se dió un duro golpe al crimen organizado">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="y8XMbMxMF8E" />
+          <attvalue for="2" value="Gracias a la inteligencia, coordinación y firmeza, se dió un duro golpe al crimen organizado" />
+          <attvalue for="3" value="Ministerio de Gobernación" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="84" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::yCmBtmOm6nw" label="“¿DÓNDE ESTÁN?”: GOBIERNO IMPULSA MECANISMO PARA BUSCAR A DESAPARECIDOS DEL CONFLICTO ARMADO">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="yCmBtmOm6nw" />
+          <attvalue for="2" value="“¿DÓNDE ESTÁN?”: GOBIERNO IMPULSA MECANISMO PARA BUSCAR A DESAPARECIDOS DEL CONFLICTO ARMADO" />
+          <attvalue for="3" value="IDocumenta" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="6" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::yLZS3JiEBg8" label="Arroz con pollo a la MONOPOLIO">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="yLZS3JiEBg8" />
+          <attvalue for="2" value="Arroz con pollo a la MONOPOLIO" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="News &amp; Politics" />
+          <attvalue for="5" value="1954" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::zfJlUXRSaCU" label="Brief Political History of Guatemala">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="zfJlUXRSaCU" />
+          <attvalue for="2" value="Brief Political History of Guatemala" />
+          <attvalue for="3" value="Crónica Panamericana" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="53547" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+      <node id="video::zweosulrwA8" label="Edén por Salud: empleo inclusivo para personas con discapacidad en Antigua | Super - Episodio 2">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="zweosulrwA8" />
+          <attvalue for="2" value="Edén por Salud: empleo inclusivo para personas con discapacidad en Antigua | Super - Episodio 2" />
+          <attvalue for="3" value="Quorum" />
+          <attvalue for="4" value="Nonprofits &amp; Activism" />
+          <attvalue for="5" value="52" />
+          <attvalue for="6" value="true" />
+        </attvalues>
+      </node>
+      <node id="video::zyA0BpEYcQU" label="Discusión entre conductor y jefe de la PMT">
+        <attvalues>
+          <attvalue for="0" value="video" />
+          <attvalue for="1" value="zyA0BpEYcQU" />
+          <attvalue for="2" value="Discusión entre conductor y jefe de la PMT" />
+          <attvalue for="3" value="Nuestro Mundo" />
+          <attvalue for="4" value="People &amp; Blogs" />
+          <attvalue for="5" value="55349" />
+          <attvalue for="6" value="false" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="video::06mFNPU0aB8" target="video::6W4u8sGEnGM" id="0" weight="1" />
+      <edge source="video::6W4u8sGEnGM" target="video::PjmxCj-a9Hg" id="1" weight="1" />
+      <edge source="video::PjmxCj-a9Hg" target="video::n8iP75gIpmw" id="2" weight="1" />
+      <edge source="video::WIUZtitfLRw" target="video::ndAZjHqzzT8" id="3" weight="1" />
+      <edge source="video::WIUZtitfLRw" target="video::yLZS3JiEBg8" id="4" weight="1" />
+      <edge source="video::b_Hkrkl3adA" target="video::n8iP75gIpmw" id="5" weight="1" />
+      <edge source="video::is3Mk5oC19g" target="video::j43HgwYFKfk" id="6" weight="1" />
+      <edge source="video::j43HgwYFKfk" target="video::n8iP75gIpmw" id="7" weight="2" />
+      <edge source="video::j43HgwYFKfk" target="video::ndAZjHqzzT8" id="8" weight="1" />
+      <edge source="video::n8iP75gIpmw" target="video::ndAZjHqzzT8" id="9" weight="1" />
+      <edge source="video::ndAZjHqzzT8" target="video::yLZS3JiEBg8" id="10" weight="2" />
+    </edges>
+  </graph>
+</gexf>

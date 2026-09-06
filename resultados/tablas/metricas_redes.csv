@@ -1,0 +1,4 @@
+﻿red,tipo_de_red,nodos,aristas,densidad,grado_medio,grado_medio_ponderado,grado_maximo,componentes,tamano_componente_mayor,proporcion_componente_mayor,aislados,perifericos_grado_1,cohesion_conectividad_nodal,cohesion_componente_mayor,transitividad
+bipartita_autor_video,bipartita_no_dirigida,625,343,0.0017589743589743589,1.0976,1.2992,128,284,286,0.4576,274,327,0,1,0.0
+proyeccion_autor_autor,proyeccion_no_dirigida,332,10732,0.19531904051250318,64.65060240963855,64.66265060240964,183,10,276,0.8313253012048193,4,2,0,1,0.9840254741148836
+proyeccion_video_video,proyeccion_no_dirigida,293,11,0.0002571415213427463,0.07508532423208192,0.08873720136518772,4,284,10,0.034129692832764506,283,3,0,1,0.3157894736842105
